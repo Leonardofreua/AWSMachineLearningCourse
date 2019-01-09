@@ -16,7 +16,8 @@
 
 >### Phase 3: Modeling
 ```
-    This is where you define the problem in a way the algorithm can optimize. Uses geometry, probability, norms, and statistcs.
+    This is where you define the problem in a way the algorithm can optimize. Uses geometry, 
+    probability, norms, and statistcs.
 ```
 
 ![Modeling](./images/Modeling.jpg)
